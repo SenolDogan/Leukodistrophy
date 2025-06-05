@@ -1,0 +1,93 @@
+Significant variables (p < 0.05) distinguishing Leukodystrophy vs MS
+
+basic_registry | Test: Fisher Exact | p=1.784e-18
+  Leukodystrophy: 1.5972972972972972
+  Multiple Sclerosis: 1.0579710144927537
+
+basic_death | Test: Fisher Exact | p=0.0001724
+  Leukodystrophy: 0.13978494623655913
+  Multiple Sclerosis: 0.0
+
+basic_sex | Test: Fisher Exact | p=2.192e-07
+  Leukodystrophy: 1.6972972972972973
+  Multiple Sclerosis: 1.3623188405797102
+
+basic_diag | Test: Chi-square | p=1.298e-94
+  Leukodystrophy: 2.037940379403794
+  Multiple Sclerosis: 4.0
+
+basic_data_consent_complete | Test: Chi-square | p=1.987e-05
+  Leukodystrophy: 1.3135135135135134
+  Multiple Sclerosis: 1.855072463768116
+
+mh_xald___1 | Test: Fisher Exact | p=1.41e-22
+  Leukodystrophy: 0.5648648648648649
+  Multiple Sclerosis: 0.0
+
+mh_xald___2 | Test: Fisher Exact | p=1.081e-11
+  Leukodystrophy: 0.34054054054054056
+  Multiple Sclerosis: 0.0
+
+mh_xald___3 | Test: Fisher Exact | p=4.809e-05
+  Leukodystrophy: 0.15135135135135136
+  Multiple Sclerosis: 0.0
+
+mh_motor | Test: Chi-square | p=2.444e-06
+  Leukodystrophy: 0.8641509433962264
+  Multiple Sclerosis: 0.0
+
+mh_speech | Test: Chi-square | p=2.851e-06
+  Leukodystrophy: 0.8560606060606061
+  Multiple Sclerosis: 0.0
+
+mh_symptom___5 | Test: Fisher Exact | p=2.824e-30
+  Leukodystrophy: 0.002702702702702703
+  Multiple Sclerosis: 0.4927536231884058
+
+mh_symptom___6 | Test: Fisher Exact | p=6.064e-07
+  Leukodystrophy: 0.0972972972972973
+  Multiple Sclerosis: 0.34782608695652173
+
+mh_symptom___8 | Test: Fisher Exact | p=4.55e-09
+  Leukodystrophy: 0.33783783783783783
+  Multiple Sclerosis: 0.028985507246376812
+
+mh_symptom___9 | Test: Fisher Exact | p=0.004548
+  Leukodystrophy: 0.11891891891891893
+  Multiple Sclerosis: 0.014492753623188406
+
+mh_symptom___10 | Test: Fisher Exact | p=0.02092
+  Leukodystrophy: 0.06756756756756757
+  Multiple Sclerosis: 0.0
+
+mh_symptom___13 | Test: Fisher Exact | p=0.002493
+  Leukodystrophy: 0.002702702702702703
+  Multiple Sclerosis: 0.057971014492753624
+
+mh_prev | Test: Chi-square | p=5.898e-07
+  Leukodystrophy: 1.6428571428571428
+  Multiple Sclerosis: 1.2878787878787878
+
+mh_family | Test: Chi-square | p=3.479e-41
+  Leukodystrophy: 1.2671755725190839
+  Multiple Sclerosis: 0.8333333333333334
+
+mh_family_spec___3 | Test: Fisher Exact | p=4.283e-16
+  Leukodystrophy: 0.0
+  Multiple Sclerosis: 0.2608695652173913
+
+mh_csf | Test: Chi-square | p=6.037e-56
+  Leukodystrophy: 3.2762645914396886
+  Multiple Sclerosis: 2.0757575757575757
+
+mh_csf_spec___1 | Test: Fisher Exact | p=1.248e-05
+  Leukodystrophy: 0.0
+  Multiple Sclerosis: 0.08695652173913043
+
+mh_csf_spec___2 | Test: Fisher Exact | p=9.224e-37
+  Leukodystrophy: 0.002702702702702703
+  Multiple Sclerosis: 0.5797101449275363
+
+mh_csf_spec___3 | Test: Fisher Exact | p=9.591e-11
+  Leukodystrophy: 0.0
+  Multiple Sclerosis: 0.17391304347826086

@@ -1,0 +1,30 @@
+
+--- Leukodystrophy (N=370) ---
+
+Most common clinical findings (N, %):
+Most common HPO codes (N, %):
+  HPO:822.0 (13, 3.5%)
+  HPO:716.0 (9, 2.4%)
+  HPO:821.0 (8, 2.2%)
+  HPO:1658.0 (3, 0.8%)
+  HPO:1250.0 (3, 0.8%)
+  HPO:2076.0 (3, 0.8%)
+  HPO:3124.0 (3, 0.8%)
+  HPO:3077.0 (3, 0.8%)
+  HPO:2140.0 (2, 0.5%)
+  HPO:872.0 (2, 0.5%)
+
+--- Multiple Sclerosis (N=69) ---
+
+Most common clinical findings (N, %):
+Most common HPO codes (N, %):
+  HPO:822.0 (5, 7.2%)
+  HPO:2076.0 (5, 7.2%)
+  HPO:872.0 (3, 4.3%)
+  HPO:821.0 (3, 4.3%)
+  HPO:716.0 (3, 4.3%)
+  HPO:2083.0 (2, 2.9%)
+  HPO:4972.0 (2, 2.9%)
+  HPO:1250.0 (2, 2.9%)
+  HPO:501.0 (1, 1.4%)
+  HPO:12146.0 (1, 1.4%)

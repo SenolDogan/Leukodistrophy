@@ -1,0 +1,35 @@
+Model Evaluation Results
+=======================
+
+Random Forest:
+-------------
+Training Set:
+  accuracy: 1.0000
+  precision: 1.0000
+  recall: 1.0000
+  f1: 1.0000
+  roc_auc: 1.0000
+Test Set:
+  accuracy: 1.0000
+  precision: 1.0000
+  recall: 1.0000
+  f1: 1.0000
+  roc_auc: 1.0000
+Cross-Validation ROC AUC (5-fold): 1.0000 ± 0.0000
+
+XGBoost:
+-------
+Training Set:
+  accuracy: 1.0000
+  precision: 1.0000
+  recall: 1.0000
+  f1: 1.0000
+  roc_auc: 1.0000
+Test Set:
+  accuracy: 1.0000
+  precision: 1.0000
+  recall: 1.0000
+  f1: 1.0000
+  roc_auc: 1.0000
+Cross-Validation ROC AUC (5-fold): 1.0000 ± 0.0000
+
